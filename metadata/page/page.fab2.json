@@ -1,0 +1,15 @@
+{
+  "_id": "page.fab2",
+  "_type": "page.singlequestion",
+  "actionType": "custom-1",
+  "components": [
+    {
+      "_id": "page.fab2--text.auto_name__1",
+      "_type": "text",
+      "hint": "What do people call you?",
+      "label": "What's your name?",
+      "name": "auto_name__1"
+    }
+  ],
+  "url": "fab2"
+}

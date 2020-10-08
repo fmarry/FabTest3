@@ -1,0 +1,14 @@
+{
+  "_id": "page.yesyouareF",
+  "_type": "page.content",
+  "body": "You are Fabien!",
+  "enableSteps": "Etape 1",
+  "heading": "Yes you are",
+  "show": {
+    "identifier": "auto_name__1",
+    "operator": "is",
+    "value": "Fabien"
+  },
+  "undefined": "Etape 2",
+  "url": "yesyouareF"
+}

@@ -1,0 +1,13 @@
+{
+  "_id": "page.page3fromstep",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.page3fromstep--number.auto_name__3",
+      "_type": "number",
+      "label": "Entry 3",
+      "name": "auto_name__3"
+    }
+  ],
+  "url": "page3fromstep"
+}

@@ -1,0 +1,16 @@
+{
+  "_id": "page.notFab",
+  "_type": "page.content",
+  "heading": "Sorry",
+  "lede": "Sorry, you're definitely not Fabien",
+  "show": {
+    "0": {
+      "identifier": "auto_name__1"
+    },
+    "identifier": "auto_name__1",
+    "negated": true,
+    "operator": "is",
+    "value": "Fabien"
+  },
+  "url": "notFab"
+}
